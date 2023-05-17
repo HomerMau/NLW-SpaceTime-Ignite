@@ -1,0 +1,3 @@
+//Comandos importantes
+
+npm run dev // Roda o código
