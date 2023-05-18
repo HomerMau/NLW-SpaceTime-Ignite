@@ -1,3 +1,5 @@
 //Comandos importantes
 
-npm run dev // Roda o código
+npm run dev // Roda o código na web
+
+npm run start // Roda o código no Mobile
